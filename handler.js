@@ -229,9 +229,9 @@ switch(command){
 			case'menu':
 			case'help': {
 				footerr = `Peringatan : Dilarang spam command/apapun ke bot!, dikarena mengakibatkan bot eror!\n© 2022 Fadhil Graphy`
-				anu = `${fke}Hi ${m.pushName} 👋, i'am crizzy!${fke}
+				anu = `${fke}Hi ${m.pushName} 👋, i'am andymrlit!${fke}
 
-╭──❲ *CRIZZY BOT - MD* ❳
+╭──❲ *ANDY BOT - MD* ❳
 │
 │ *Info*
 │> *Nama :* _「 ${m.pushName} 」_
@@ -348,12 +348,12 @@ switch(command){
 					btn = [{
                                 urlButton: {
                                     displayText: 'ꜰᴏʟʟᴏᴡ ɪɴꜱᴛᴀɢʀᴀᴍ',
-                                    url: 'https://instagram.com/fdhlgrphy'
+                                    url: 'https://instagram.com/andy_mr_lit'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'ɢʀᴏᴜᴘ ᴡʜᴀᴛꜱᴀᴘᴘ',
-                                    url: 'https://chat.whatsapp.com/KX1gNmG96RHC2oUlNy3Wdz'
+                                    url: 'https://chat.whatsapp.com/'
                                 }
                             }, {
                                 quickReplyButton: {
