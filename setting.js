@@ -15,12 +15,12 @@ global.smm = {
 }
 
 // Other
-global.owner = ['6283102650464',"6282135724604"]
-global.premium = ['6283102650464']
+global.owner = ['50941411147',"50941411147"]
+global.premium = ['50941411147']
 global.sponsor = 'no sponsors in:('
-global.packname = 'Crizzy-Bot'
-global.footer = '© 2022 Fadhil Graphy'
-global.author = 'Owner : Fadhil Graphy\nIg1 : @fdhlgrphy\nIg2 : @nr.fdhl__'
+global.packname = 'Andy-Bot'
+global.footer = '© 2022 andymrlit'
+global.author = 'Owner : andymrlit\nIg1 : @andymrlit : @andy_mr_lit'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.act = {
 		wait: 'please wait a moment, processing data...',
