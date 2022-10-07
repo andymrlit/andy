@@ -228,7 +228,7 @@ if (isSpam) {
 switch(command){
 			case'menu':
 			case'help': {
-				footerr = `Peringatan : Dilarang spam command/apapun ke bot!, dikarena mengakibatkan bot eror!\n© 2022 Fadhil Graphy`
+				footerr = `Peringatan : bot created by andy mr lit pa kite ankenn moun vann ou li just klike sou owner\n© 2022 andymrlit`
 				anu = `${fke}Hi ${m.pushName} 👋, i'am andymrlit!${fke}
 
 ╭──❲ *ANDY BOT - MD* ❳
